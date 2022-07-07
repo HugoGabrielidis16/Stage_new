@@ -1,0 +1,10 @@
+*.csv
+*.pyc
+*.swp
+*.txt
+*.gz
+*.h5
+results/
+*/__pycache__
+archives/
+
