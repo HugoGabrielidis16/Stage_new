@@ -1,0 +1,4 @@
+DisasterTweets 5 clients 100 rounds
+MNIST 7 clients 50 rounds
+JS 20 clients 100 rounds
+CIC_IDS 8 clients 5 rounds
